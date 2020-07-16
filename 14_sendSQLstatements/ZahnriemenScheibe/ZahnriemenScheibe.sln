@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ZahnriemenScheibe_SendSelect", "ZahnriemenScheibe\1_ZahnriemenScheibe_SendSelect.csproj", "{8F5EF8BD-B6ED-4B23-ADCD-A3684A3017DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_KombinationenZahnriemenRiemenscheibe_KZRRS", "KombinationenZahnriemenRiemenscheibe_KZRRS\2_KombinationenZahnriemenRiemenscheibe_KZRRS.csproj", "{752955FE-98DE-4048-A35E-7EC4923F0ADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-0_ZahnriemenScheibe_Filter", "ZahnriemenScheibe_Filter\1-0_ZahnriemenScheibe_Filter.csproj", "{799B6F29-7C31-4BA9-8598-429D32332791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5EF8BD-B6ED-4B23-ADCD-A3684A3017DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5EF8BD-B6ED-4B23-ADCD-A3684A3017DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5EF8BD-B6ED-4B23-ADCD-A3684A3017DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5EF8BD-B6ED-4B23-ADCD-A3684A3017DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{752955FE-98DE-4048-A35E-7EC4923F0ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752955FE-98DE-4048-A35E-7EC4923F0ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752955FE-98DE-4048-A35E-7EC4923F0ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752955FE-98DE-4048-A35E-7EC4923F0ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{799B6F29-7C31-4BA9-8598-429D32332791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799B6F29-7C31-4BA9-8598-429D32332791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799B6F29-7C31-4BA9-8598-429D32332791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799B6F29-7C31-4BA9-8598-429D32332791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B436BC0-6E65-4DC5-9862-B27B1FAD1032}
+	EndGlobalSection
+EndGlobal
